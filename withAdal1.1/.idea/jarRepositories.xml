@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="TalendOpenSourceRelease" />
+      <option name="name" value="TalendOpenSourceRelease" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/TalendOpenSourceRelease/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="talend.snapshots" />
+      <option name="name" value="talend.snapshots" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="talend.oss.snapshots" />
+      <option name="name" value="talend.oss.snapshots" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/TalendOpenSourceSnapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SonatypeSnapshotsOSS" />
+      <option name="name" value="SonatypeSnapshotsOSS" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/snapshots/" />
+    </remote-repository>
+  </component>
+</project>
